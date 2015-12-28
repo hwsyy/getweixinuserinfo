@@ -1,5 +1,5 @@
 # getweixinuserinfo
-get user infomation by the WeChat API
+get user infomation by the WeChat API<br/>
 1、登陆微信公众号后台设置授权回调页面域名地址，如下图
 
 2、获取公众号的APPID和APPSECRET
